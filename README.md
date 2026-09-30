@@ -110,7 +110,7 @@ This can help artisans make more informed pricing decisions and reduce the risk 
 
 
 # 🔎 8. Voice-Based Product Search
-Buyers can search for products using voice.
+Buyers can search for products using voice by using voice assistant sathi.
 <img width="813" height="207" alt="image" src="https://github.com/user-attachments/assets/a8d7f8d6-5edb-4b4d-add2-94dd2cf4b6bf" />
 Better product discoverability can help connect artisan products with a wider range of potential customers.
 
@@ -176,24 +176,49 @@ Current market range: ₹1,800–₹2,400
 This can help them understand whether the price they're being offered is unusually low or how the market has changed. The app should clearly show the source, date, region, and product specifications for price data so historical prices aren't mistaken for guaranteed selling prices.
 
 14. 🗺️ Shop by Region - Shop by Region allows buyers to explore India's rich handicraft heritage through an interactive map of India.
-Users can simply click on a state on the map to discover traditional handicrafts and products that are associated with that region. This makes it easier for buyers to explore authentic regional products without having to search for them manually.
+Users can simply click on a state on the map to discover traditional handicrafts and products that are associated with that region. This makes it easier for buyers to
+
+explore authentic regional products without having to search for them manually.
 For example:
+
 *🇮🇳 Andhra Pradesh → Kondapalli Toys, Kalamkari, traditional handloom products
+
 *🇮🇳 Telangana → Pochampally Ikat, Cheriyal Paintings, Nirmal Crafts
+
 *🇮🇳 Rajasthan → Blue Pottery, Block Printing, traditional handicrafts
+
 *🇮🇳 Kashmir → Pashmina, Papier-mâché, traditional Kashmiri crafts
 
 
-15. 🎨 Product Customisation
+16. 🎨 Product Customisation
 
 KarigarSetu also enables direct interaction between customers and artisans for product customisation. Customers can communicate their requirements and request changes according to their preferences, such as colour, size, design, pattern, or other personalised details.
+
 This creates a direct connection between the buyer and artisan, allowing customers to get products that match their specific needs while giving artisans the flexibility to offer personalised creations.
+
 The interaction can be supported through voice-based communication, making customisation easier for users who may not be comfortable with text or English.
 
 
+17. 🏠 AI-Powered Decoration Ideas
+
+KarigarSetu will also provide an AI-based feature where customers can upload a photo of a space they want to decorate.
+
+The AI analyses the image and suggests suitable decoration ideas using handcrafted products available on the platform.
+
+For example:
+
+<img width="908" height="1038" alt="image" src="https://github.com/user-attachments/assets/1c1ecba7-08be-41a0-95b2-a1c651542112" />
 
 
+18. 🗣️ Regional Language & Voice Support
 
+* To make KarigarSetu accessible to artisans with limited English proficiency, the platform is designed around voice interaction and regional-language support.
+
+* For the initial prototype, Telugu will be the primary supported language. Users will be able to interact with the platform through Telugu voice input and receive information in Telugu wherever supported.
+
+* The system is designed to be scalable to multiple Indian languages in future, allowing KarigarSetu to gradually support artisans and customers from different regions of India.
+
+* This language-first approach works together with features such as Artisan Clusters, Product Customisation, Price History, and Shop by Region, making the platform easier to use without requiring users to depend heavily on English or complex text-based navigation.
 
 
 
