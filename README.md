@@ -175,7 +175,7 @@ Current market range: ₹1,800–₹2,400
  The artisan can simply press 🎙️  “Listen to price history” and hear it in their language.
 This can help them understand whether the price they're being offered is unusually low or how the market has changed. The app should clearly show the source, date, region, and product specifications for price data so historical prices aren't mistaken for guaranteed selling prices.
 
-14. 🗺️ Shop by Region - Shop by Region allows buyers to explore India's rich handicraft heritage through an interactive map of India.
+14. 🗺️ SHOP BY RTEGION - Shop by Region allows buyers to explore India's rich handicraft heritage through an interactive map of India.
 Users can simply click on a state on the map to discover traditional handicrafts and products that are associated with that region. This makes it easier for buyers to
 
 explore authentic regional products without having to search for them manually.
@@ -190,7 +190,7 @@ For example:
 *🇮🇳 Kashmir → Pashmina, Papier-mâché, traditional Kashmiri crafts
 
 
-16. 🎨 Product Customisation
+16. 🎨 PRODUCT CUSTOMISATION 
 
 KarigarSetu also enables direct interaction between customers and artisans for product customisation. Customers can communicate their requirements and request changes according to their preferences, such as colour, size, design, pattern, or other personalised details.
 
@@ -199,7 +199,7 @@ This creates a direct connection between the buyer and artisan, allowing custome
 The interaction can be supported through voice-based communication, making customisation easier for users who may not be comfortable with text or English.
 
 
-17. 🏠 AI-Powered Decoration Ideas
+17. 🏠AI - POWERED DECOR IDEAS
 
 KarigarSetu will also provide an AI-based feature where customers can upload a photo of a space they want to decorate.
 
@@ -210,7 +210,7 @@ For example:
 <img width="908" height="1038" alt="image" src="https://github.com/user-attachments/assets/1c1ecba7-08be-41a0-95b2-a1c651542112" />
 
 
-18. 🗣️ Regional Language & Voice Support
+18. 🗣️ REGIONAL LANGUAGE & VOICE SUPPORT 
 
 * To make KarigarSetu accessible to artisans with limited English proficiency, the platform is designed around voice interaction and regional-language support.
 
