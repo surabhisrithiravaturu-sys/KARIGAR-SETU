@@ -40,7 +40,8 @@ AI assists with:
  
 The artisan can review, repeat, correct, and confirm the generated information before publishing it.
 
-<img width="1008" height="1491" alt="image" src="https://github.com/user-attachments/assets/28f336a9-17c7-40eb-aeb7-dd1d86c33736" />
+di <img width="822" height="993" alt="image" src="https://github.com/user-attachments/assets/c1fabdd2-9691-4124-877d-b7c30b171d02" />
+
 
 KEY FEATURES :
 # 🎙️  1.  Voice-First Interaction  - Artisans can describe their products through voice instead of typing.
@@ -160,13 +161,34 @@ This can help artisans discover opportunities for:
 * Government schemes
 <img width="908" height="1278" alt="image" src="https://github.com/user-attachments/assets/acb0e16a-bc81-449a-842c-51b86f4eac07" />
 
-  
+
+13. 💰 Price History
+Instead of only showing today's suggested price, show how the price has changed.
+For example:
+
+🧵 Handloom Saree
+Current market range: ₹1,800–₹2,400
+📈 Price history
+2024 → ₹1,500
+2025 → ₹1,750
+2026 → ₹2,100
+ The artisan can simply press 🎙️  “Listen to price history” and hear it in their language.
+This can help them understand whether the price they're being offered is unusually low or how the market has changed. The app should clearly show the source, date, region, and product specifications for price data so historical prices aren't mistaken for guaranteed selling prices.
+
+14. 🗺️ Shop by Region - Shop by Region allows buyers to explore India's rich handicraft heritage through an interactive map of India.
+Users can simply click on a state on the map to discover traditional handicrafts and products that are associated with that region. This makes it easier for buyers to explore authentic regional products without having to search for them manually.
+For example:
+*🇮🇳 Andhra Pradesh → Kondapalli Toys, Kalamkari, traditional handloom products
+*🇮🇳 Telangana → Pochampally Ikat, Cheriyal Paintings, Nirmal Crafts
+*🇮🇳 Rajasthan → Blue Pottery, Block Printing, traditional handicrafts
+*🇮🇳 Kashmir → Pashmina, Papier-mâché, traditional Kashmiri crafts
 
 
+15. 🎨 Product Customisation
 
-
-
-
+KarigarSetu also enables direct interaction between customers and artisans for product customisation. Customers can communicate their requirements and request changes according to their preferences, such as colour, size, design, pattern, or other personalised details.
+This creates a direct connection between the buyer and artisan, allowing customers to get products that match their specific needs while giving artisans the flexibility to offer personalised creations.
+The interaction can be supported through voice-based communication, making customisation easier for users who may not be comfortable with text or English.
 
 
 
