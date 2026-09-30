@@ -158,6 +158,9 @@ This can help artisans discover opportunities for:
 * Market access
 * Business support
 * Government schemes
+<img width="908" height="1278" alt="image" src="https://github.com/user-attachments/assets/acb0e16a-bc81-449a-842c-51b86f4eac07" />
+
+  
 
 
 
