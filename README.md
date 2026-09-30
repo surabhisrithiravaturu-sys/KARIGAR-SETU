@@ -89,7 +89,7 @@ The platform can generate structured listings containing:
 It helps artisans present their products in a standardized digital format suitable for online discovery.
 
 
-# 💰 6. AI-Assisted Price Range - KarigarSetu can provide an estimated price range based on available product and market information.
+# 6. AI-Assisted Price Range - KarigarSetu can provide an estimated price range based on available product and market information.
 
 Possible factors include:
 * Material
@@ -102,6 +102,62 @@ THE ARTISAN RETAIN CONTROL OVER THE FINAL PRICE.
 This can help artisans make more informed pricing decisions and reduce the risk of undervaluing their work.
 
 
+# 🧾 7. GST & HSN Assistance - KarigarSetu can provide GST and HSN-related information as supporting guidance.
+
+* Tax terminology and product classification can be difficult for first-time digital sellers.
+* Simplifying this information can help artisans better understand the requirements associated with digital selling.
+
+
+# 🔎 8. Voice-Based Product Search
+Buyers can search for products using voice.
+<img width="813" height="207" alt="image" src="https://github.com/user-attachments/assets/a8d7f8d6-5edb-4b4d-add2-94dd2cf4b6bf" />
+Better product discoverability can help connect artisan products with a wider range of potential customers.
+
+
+# 🌱 Extra Features for Artisan Welfare
+
+## 📊 9. Artisan Business Insights
+
+Future versions can provide simple information such as:
+
+* Product views
+* Popular products
+* Customer interest
+* Orders
+* Revenue
+* Product performance
+
+Helps artisans understand their market and make informed business decisions without requiring advanced analytical knowledge.
+
+
+## 📦 10. Logistics Assistance
+Future integration can support:
+* Shipping
+* Order tracking
+* Delivery status
+* Estimated delivery information
+Reduces the complexity of fulfilling online orders for small-scale artisans.
+
+ 
+## 💳 11. Digital Payment Support
+Integration with supported payment systems can simplify digital transactions.
+Makes receiving payments from online customers more convenient.
+
+
+## 🏛️ 12. Government & NGO Ecosystem
+Future versions can potentially connect artisans with:
+* Government artisan-support programs
+* NGOs
+* Self-help groups
+* Craft cooperatives
+* Training organizations
+* Rural entrepreneurship programs
+This can help artisans discover opportunities for:
+* Training
+* Digital literacy
+* Market access
+* Business support
+* Government schemes
 
 
 
